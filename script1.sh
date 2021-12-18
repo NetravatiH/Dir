@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "My name is Netra "
+echo "My name is Netra"
